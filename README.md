@@ -1,1 +1,2 @@
 # Classic-Nokia-Snake-Game
+ ## A classic Nokia-style Snake game built in Python using object-oriented programming principles and real-time keyboard event handling. The game features smooth snake movement, collision detection, score tracking, and dynamic food spawning within a grid-based system. Inspired by the iconic retro mobile game, this project demonstrates core game development concepts such as game loops, state management, and 2D rendering in Python.
